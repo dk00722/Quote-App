@@ -1,0 +1,3 @@
+# TASK 2
+
+## QUOTE OF THE DAY APP
